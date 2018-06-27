@@ -1,0 +1,12 @@
+//
+//  MovieDB.release.xcconfig
+//  MovieDB
+//
+//  Created by Shah on 6/27/18.
+//  Copyright © 2018 shah. All rights reserved.
+//
+
+#include "Pods/Target Support Files/Pods-MovieDB/Pods-MovieDB.release.xcconfig"
+
+buildConfig_API_HOST = https:/$()/www.moviedb.io/api
+buildConfig_GMS_API_KEY = AIRaSvBdVl-cTICSwYKcZ75SuvNw7bbMuDt1KG0
